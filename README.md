@@ -2,6 +2,10 @@
 
 A comparative network science study of high-confidence protein-protein interaction networks across four species: *Homo sapiens*, *Anolis carolinensis*, *Drosophila melanogaster*, and *Gallus gallus*, using STRING database interactions, NetworkX, and Louvain community detection.
 
+## Motivation
+
+Before moving into medical physics, I wanted to build a solid foundation in computational and systems-level thinking understanding how complex biological systems can be modeled, quantified, and compared using network science. This project was my way of exploring that: applying graph theory and network analysis to real protein interaction data across species, before later applying similar quantitative reasoning to clinical problems in radiotherapy and oncology during my MSc thesis at Sant'Orsola University Hospital.
+
 ## Overview
 
 This project builds and analyzes PPI networks (1,090 proteins each, STRING confidence ≥ 0.7) to explore how connectivity, modularity, and hub structure differ across species — and what that means for their use in biomedical vs. evolutionary research.
